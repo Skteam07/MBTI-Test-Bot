@@ -19,7 +19,9 @@ It gives you an **approximate MBTI type** (like INTP, ENFP, ISTJ, etc.) based on
   - **T / F** – Thinking vs Feeling  
   - **J / P** – Judging vs Perceiving
 - Short description of your type at the end
-
+---
+## TO RUN
+https://mbti-test-bot-ajzifhmnriffamrbrvbtrs.streamlit.app/
 ---
 
 ## 📦 Requirements
